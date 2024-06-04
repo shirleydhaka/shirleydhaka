@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shirley Dhaka</h1>
-<h3 align="center">I have a keen interest in problem solving and I'm currently learning DSA rently L</h3>
+<h3 align="center">I have a keen interest in problem solving and I'm currently learning DSA recently</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleydhaka&label=Profile%20views&color=0e75b6&style=flat" alt="shirleydhaka" /> </p>
